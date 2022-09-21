@@ -4,13 +4,13 @@ export default function Footer() {
     return (
         <div className="footer-sec">
             <a href="#" className="link link-1">
-                <img src="../public/tw.png" alt="twitter-icon" className="icon tw" />
+                <img src="/tw.png" alt="twitter-icon" className="icon tw" />
             </a>
             <a href="#" className="link link-2">
-                <img src="../public/fb.png" alt="facebook-icon" className="icon fb" />
+                <img src="/fb.png" alt="facebook-icon" className="icon fb" />
             </a>
             <a href="#" className="link link-3">
-                <img src="../public/ig.png" alt="instagram" className="icon ig" />
+                <img src="/ig.png" alt="instagram" className="icon ig" />
             </a>
         </div>
     )
